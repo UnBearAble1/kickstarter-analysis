@@ -37,6 +37,6 @@ There were no significant difficulties in organizing the information requested. 
 
 * What are some other possible tables and/or graphs that we could create?
   * Limiting analysis to the region where the client wants to focus on.
-  * Show the average number of backers and average donation for similar successful projects.
+  * Show the average number of backers and average donation for similar projects.
   * Impact of staff pick or spotlight on success or failure for different goal amounts.
-  * Changes in success rates and donations over time.
+  * Changes in success or failures rates and donations over time for similar projects.
