@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-### This analysis of kickstarter data reviewed various criteria to identify trends that have resulted in a successful or non-successful kickstarter campiagn. This analysis reviewed theaters and plays, analyzing criteria including the time frames when they launched, the amounts saught for each project and the percentage of success for projects within defined dollar ranges.
+### This analysis of kickstarter data reviewed various criteria to identify trends that have resulted in a successful or non-successful kickstarter campiagn. This analysis reviewed theaters and plays, analyzing criteria including the time frames when they launched, the amounts sought for each project and the percentage of success for projects within defined dollar ranges.
 
 ## Analysis and Challenges
 
